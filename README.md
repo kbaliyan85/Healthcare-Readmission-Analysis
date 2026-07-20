@@ -166,6 +166,10 @@ Advanced SQL techniques used:
 - HAVING
 
 ---
+*Tools used per step:*
+*Data cleaning & correlation analysis — Python (Pandas/Seaborn);*
+*Business question answering & ranking — SQL; *
+*Visualization — Power BI.*
 
 
 # 📊 Dashboard KPIs
@@ -179,10 +183,6 @@ Advanced SQL techniques used:
 | High-Risk Patients | Dynamic (Filter Based) |
 
 ---
-*Tools used per step:
-Data cleaning & correlation analysis — Python (Pandas/Seaborn);
-Business question answering & ranking — SQL; 
-Visualization — Power BI.*
 
 # 🔍 Key Insights
 
